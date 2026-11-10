@@ -2,4 +2,4 @@
 unofficial ratpoison binary
 
 ## Dependency
-Make sure you the `libXtst` installed.
+Make sure you have `libXtst` installed.
